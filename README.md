@@ -1,4 +1,4 @@
-# Awesome Government
+# Awesome Government [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rogersachan/awesome-government)
 
 > A collection of awesome open-source government APIs and software
 
@@ -6,7 +6,7 @@
 
 ### General
 
-* [Data.GOV](https://www.data.gov/)A database of all US APIs
+* [Data.GOV](https://www.data.gov/) A database of all US APIs.
 
 ### NASA
 
@@ -15,9 +15,9 @@
 * [NASA APIs](https://api.nasa.gov/index.html#getting-started) The NASA API Portal
 * [Open MCT](https://github.com/nasa/openmct) A web based mission control framework.
 * [NASA 3D Resources](https://github.com/nasa/NASA-3D-Resources) Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
-* https://github.com/nasa/VICAR
-* https://github.com/nasa/trick
-* https://github.com/nasa/World-Wind-Java
+* [Video Image Communication And Retrieval](https://github.com/nasa/VICAR) a general purpose image processing software system that has been developed since 1966 to digitally process multi-dimensional imaging data.
+* [Trick Simulation Environment](https://github.com/nasa/trick) Trick provides a common set of simulation capabilities and utilities to build simulations automatically.
+* [World Wind Java](https://github.com/nasa/World-Wind-Java) An open source 3D interactive world viewer, was created by NASA's Learning Technologies project, and released in mid-2004.
 
 ### NIST
 
@@ -31,4 +31,4 @@
 
 ### NIH
 
-### 
+### USDA
