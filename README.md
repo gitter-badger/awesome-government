@@ -17,7 +17,7 @@
 * [NASA 3D Resources](https://github.com/nasa/NASA-3D-Resources) Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 * [Video Image Communication And Retrieval](https://github.com/nasa/VICAR) a general purpose image processing software system that has been developed since 1966 to digitally process multi-dimensional imaging data.
 * [Trick Simulation Environment](https://github.com/nasa/trick) Trick provides a common set of simulation capabilities and utilities to build simulations automatically.
-* [World Wind Java](https://github.com/nasa/World-Wind-Java) An open source 3D interactive world viewer, was created by NASA's Learning Technologies project, and released in mid-2004.
+* [World Wind Java](https://github.com/NASAWorldWind/WorldWindJava) An open source 3D interactive world viewer, was created by NASA's Learning Technologies project, and released in mid-2004.
 
 ### NIST
 
