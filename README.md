@@ -40,12 +40,15 @@
 ### NIH
 
 * [NIH API Database](https://wwwcf.nlm.nih.gov/nlm_eresources/eresources/search_database.cfm) A database of all NIH APIs.
-* [NIH ImageJ](https://github.com/imagej/imagej)
+* [NIH ImageJ](https://github.com/imagej/imagej) A image manipulation tool
 * 
 
 ### USDA
 
-* 
+* [Recreation Information Database](https://github.com/USDA/RIDB) An authoritative source of information and services for millions of visitors to federal lands, historic sites, museums, and other attractions/resources.
 * 
 * 
 
+## Canada
+
+### General
