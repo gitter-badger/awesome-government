@@ -49,6 +49,13 @@
 * 
 * 
 
+### National Archives
+
+* [NARA File Analyzer](https://github.com/usnationalarchives/File-Analyzer) Perform evaluation for an entire file directory on filename validation, file size statistical analysis, checksum calculation, and file type extraction
+* [NARA Video Frame Analyzer](https://github.com/usnationalarchives/Video-Frame-Analyzer) Automate and standardize the Quality Control checks on digitized video files
+* [NARA AVI MetaEdit Tool](https://github.com/usnationalarchives/AVI-MetaEdit) Provide metadata control such as embedding and editing for AVI files
+* [NARA MediaInfo](https://github.com/usnationalarchives/MediaInfo) Display stream information for video and audio files
+
 ## Canada
 
 ### General
