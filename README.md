@@ -65,6 +65,9 @@
 
 #### Sandia National Laboratories
 
+* [Toyplot](https://github.com/sandialabs/toyplot) Interactive plotting for Python.
+* [Sandia Cyber Omni Tracker](https://github.com/sandialabs/scot) Cyber security incident response management system and knowledge base. 
+
 ## Canada
 
 ### General
