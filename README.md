@@ -69,12 +69,12 @@
 * [Sandia Cyber Omni Tracker](https://github.com/sandialabs/scot) Cyber security incident response management system and knowledge base. 
 * [Slycat](https://github.com/sandialabs/slycat) Web-based data science analysis and visualization platform.
 
-### US Army Research Lab
+### United States Army Research Lab
 
 * [Dshell](https://github.com/USArmyResearchLab/Dshell) network forensic analysis framework.
 * [BRL-CAD](https://sourceforge.net/projects/brlcad/?source=navbar) Open Source Solid Modeling CAD.
 
-### USGS
+### United States Geological Survey
 
 * [Shakemap](https://github.com/usgs/shakemap) Near-real-time maps of ground motion and shaking intensity.
 * https://github.com/usgs/groundfailure
