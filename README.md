@@ -8,7 +8,7 @@
 
 * [Data.GOV](https://www.data.gov/) Database of all US APIs and datasets.
 
-### NASA
+### National Aeronautics and Space Administration
 
 * [DERT](https://github.com/nasa/DERT) Open source software tool for exploring NASA's digital terrain models in 3D.
 * [earthdata-search](https://github.com/nasa/earthdata-search) Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
@@ -19,31 +19,31 @@
 * [Trick Simulation Environment](https://github.com/nasa/trick) Provides a common set of simulation capabilities and utilities to build simulations automatically.
 * [World Wind Java](https://github.com/NASAWorldWind/WorldWindJava) Open source 3D interactive world viewer, was created by NASA's Learning Technologies project, and released in mid-2004.
 
-### NIST
+### National Institute of Standards and Technology
 
 * 
 * 
 * 
 
-### FDA
+### Food and Drug Administration
 
 * 
 * 
 * 
 
-### CDC
+### Centers for Disease Control and Prevention
 
 * 
 * 
 * 
 
-### NIH
+### National Institutes of Health
 
 * [NIH API Database](https://wwwcf.nlm.nih.gov/nlm_eresources/eresources/search_database.cfm) A database of all NIH APIs.
 * [NIH ImageJ](https://github.com/imagej/imagej) Open source scientific multidimensional image processing.
 * 
 
-### USDA
+### United States Department of Agriculture
 
 * [Recreation Information Database](https://github.com/USDA/RIDB) Authoritative source of information and services for millions of visitors to federal lands, historic sites, museums, and other attractions/resources.
 * 
@@ -77,6 +77,7 @@
 ### USGS
 
 * [Shakemap](https://github.com/usgs/shakemap) Near-real-time maps of ground motion and shaking intensity.
+* https://github.com/usgs/groundfailure
 
 ## United Kingdom
 
