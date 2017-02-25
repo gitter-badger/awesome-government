@@ -56,6 +56,15 @@
 * [NARA AVI MetaEdit Tool](https://github.com/usnationalarchives/AVI-MetaEdit) Provide metadata control such as embedding and editing for AVI files
 * [NARA MediaInfo](https://github.com/usnationalarchives/MediaInfo) Display stream information for video and audio files
 
+### Department of Energy
+
+#### Idaho National Laboratory
+
+* [Multiphysics Object Oriented Simulation Environment](https://github.com/idaholab/moose) Finite-element, multiphysics framework.
+* [Stochastic Parallel PARticle Kinetic Simulator.](https://github.com/idaholab/SPPARKS) Kinetic Monte Carlo (KMC) code designed to run efficiently on parallel computers using both KMC and Metropolis Monte Carlo algorithms.
+
+#### Sandia National Laboratories
+
 ## Canada
 
 ### General
