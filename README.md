@@ -1,6 +1,6 @@
 # Awesome Government [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rogersachan/awesome-government)
 
-> A collection of awesome open-source government APIs and software
+> A collection of awesome open-source government software, APIs, and databases.
 
 ## The United States of America
 
@@ -69,9 +69,10 @@
 * [Sandia Cyber Omni Tracker](https://github.com/sandialabs/scot) Cyber security incident response management system and knowledge base. 
 * [slycat](https://github.com/sandialabs/slycat) Web-based data science analysis and visualization platform.
 
-## Canada
+### US Army Research Lab
 
-### General
+* [Dshell](https://github.com/USArmyResearchLab/Dshell) network forensic analysis framework.
+* [BRL-CAD](https://sourceforge.net/projects/brlcad/?source=navbar) Open Source Solid Modeling CAD
 
 ## United Kingdom
 
