@@ -6,7 +6,7 @@
 
 ### General
 
-* [Data.GOV](https://www.data.gov/) Database of all US APIs.
+* [Data.GOV](https://www.data.gov/) Database of all US APIs and datasets.
 
 ### NASA
 
@@ -67,7 +67,14 @@
 
 * [Toyplot](https://github.com/sandialabs/toyplot) Interactive plotting for Python.
 * [Sandia Cyber Omni Tracker](https://github.com/sandialabs/scot) Cyber security incident response management system and knowledge base. 
+* [slycat](https://github.com/sandialabs/slycat) Web-based data science analysis and visualization platform.
 
 ## Canada
 
 ### General
+
+## United Kingdom
+
+### General
+
+* [Data.gov.uk](https://data.gov.uk/) Database of all UK APIs and datasets.
